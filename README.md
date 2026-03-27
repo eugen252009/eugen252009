@@ -1,4 +1,4 @@
-# Hi, I'm Eugen | Systems Architect in TypeScript 🏎️💨
+# Hi, I'm Eugen | Systems Architect in TypeScript and Go 🏎️💨
 
 I build software that runs faster than the engines it’s built on. My focus is on **Extreme Performance**, **Zero-Copy Architectures**, and pushing **TypeScript** to its absolute physical limits.
 
